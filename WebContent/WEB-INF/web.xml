@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>ServletProgram3</servlet-name>
+
+<servlet-class>test2.ServletProgram3</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ServletProgram3</servlet-name>
+<url-pattern>/pqr</url-pattern>
+</servlet-mapping>
+<welcome-file-list>
+<welcome-file>proj.html</welcome-file>
+</welcome-file-list>
+</web-app>
